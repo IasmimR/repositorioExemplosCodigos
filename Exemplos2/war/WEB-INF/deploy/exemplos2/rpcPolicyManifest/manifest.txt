@@ -1,0 +1,3 @@
+# Module exemplos2
+# RPC service class, partial path of RPC policy file
+integracao.exemplos2.client.GreetingService, EC5CFBAC7D6052B3749AC082D9225673.gwt.rpc

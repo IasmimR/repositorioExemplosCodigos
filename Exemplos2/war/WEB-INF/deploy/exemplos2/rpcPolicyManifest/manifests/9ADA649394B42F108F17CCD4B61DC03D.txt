@@ -1,0 +1,2 @@
+serviceClass: integracao.exemplos2.client.GreetingService
+path: EC5CFBAC7D6052B3749AC082D9225673.gwt.rpc
